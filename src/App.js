@@ -1,6 +1,9 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+
+class Menu extends Component {
+  
+}
 
 function App() {
   return (
