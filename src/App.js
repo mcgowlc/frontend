@@ -1,8 +1,12 @@
 import React from 'react';
 import './App.css';
 
-class Menu extends Component {
-  
+
+
+let menuItems = [{name: 'chicken', category: 'entree'}, {name: 'pizza', category: 'entree'}];
+let
+
+
 }
 
 function App() {
